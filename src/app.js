@@ -33,8 +33,8 @@ app.get('/help', (req, res) => {
     res.render('help', {
         title: 'Help Me',
         name: 'Rakshith',
-        phno: '[masked]',
-        address: '[Masked]'
+        phno: '+91 9113674566',
+        address: 'rakshithgajendra@gmail.com'
     })
 })
 
